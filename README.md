@@ -8,7 +8,7 @@ Welcome! I am a tech enthusiast and problem-solver transitioning to cybersecurit
 - **Email**: [email/mfarrukh](mailto:smfarrukh1@hotmail.com)
 - **LinkedIn**: [www.linkedin.com/in/muhammadfarrukh90](www.linkedin.com/in/muhammadfarrukh90)
 
-## 🛠️ **Key Skills & Transferable Abilities**
+## **Key Skills & Transferable Abilities**
 | **Technical Skills**                  | **Transferable Skills**              |
 |---------------------------------------|--------------------------------------|
 | Networking basics (TCP/IP, DNS, VPNs) | Problem-solving and critical thinking|
@@ -18,7 +18,7 @@ Welcome! I am a tech enthusiast and problem-solver transitioning to cybersecurit
 
 ---
 
-## 🌱 **My Cybersecurity Learning Journey**
+## **My Cybersecurity Learning Journey**
 I am continuously growing my cybersecurity knowledge through:  
 - **Certifications**: Enrolled in [e.g., CompTIA Security+, CEH].  
 - **Courses**: Completed [e.g., "Introduction to Cybersecurity" by Cisco].  
@@ -27,37 +27,37 @@ I am continuously growing my cybersecurity knowledge through:
 
 ---
 
-## 📁 **Highlighted Projects**
-### 🔓 [SecureShell Automated Login Tracker](https://github.com/yourusername/ssh-tracker)
+## **Highlighted Projects**
+### [SecureShell Automated Login Tracker](https://github.com/yourusername/ssh-tracker)
 A Python-based tool to log and analyze SSH login attempts for potential unauthorized access.
 - **Skills Used**: Python, Regex, Data Analysis
 - **Impact**: Developed a reusable script to detect brute force attempts, enhancing server security.
 
-### 🕵️ [Personal Vulnerability Assessment Lab](https://github.com/yourusername/vuln-lab)
+### [Personal Vulnerability Assessment Lab](https://github.com/yourusername/vuln-lab)
 Built a virtual lab to simulate and test vulnerabilities using Metasploit, Nessus, and OpenVAS.
 - **Skills Used**: Virtualization, Vulnerability Scanning, Penetration Testing
 - **Impact**: Improved hands-on understanding of CVEs and their remediation.
 
-### 🌐 [Phishing Awareness Campaign](https://github.com/yourusername/phishing-awareness)
+### [Phishing Awareness Campaign](https://github.com/yourusername/phishing-awareness)
 Developed and executed a mock phishing email campaign to educate users about phishing threats.
 - **Skills Used**: Social Engineering, Communication, Security Awareness
 - **Impact**: Increased awareness and reduced click rates on phishing simulations by 30%.
 
 ---
 
-## 📜 **Certifications in Progress**
+## **Certifications in Progress**
 - **CompTIA Security+** _(Expected Completion: [Month Year])_  
 - **Certified Ethical Hacker (CEH)** _(Expected Completion: [Month Year])_
 
 ---
 
-## 🧑‍🏫 **Education**
-**[Degree Name]** in [Field of Study]  
-[University Name], [Graduation Year]  
+## **Education**
+**[Degree Name]** in [Telecommunication Engineering]  
+[NUST], [2012]  
 
 ---
 
-## 🌟 **Innovative Features**
+## **Innovative Features**
 ### Badges & Progress Tracking  
 ![Python](https://img.shields.io/badge/Python-Intermediate-blue)  
 ![Security+](https://img.shields.io/badge/Security+-In--Progress-yellow)
