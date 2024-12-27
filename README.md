@@ -1,16 +1,14 @@
 # I'm Muhammad Farrukh
-## 🌐 Cybersecurity Transition Professional
+## 🌐 A Cybersecurity Professional in Transition
 
-Welcome! I am a tech enthusiast and problem-solver transitioning to cybersecurity. With a background in [Your Previous Industry/Field], I bring a unique perspective and a diverse skill set to the world of information security. I am passionate about learning, adapting, and leveraging my experience to combat modern cyber threats.
+Welcome! I am a tech enthusiast and problem-solver transitioning to cybersecurity. With a background in Satellite Ground Station Operations, I bring a unique perspective and a diverse skill set to the world of information security. I am passionate about learning, adapting, and leveraging my experience to combat modern cyber threats.
 
 ---
 
 ## 📇 **Contact Information**
-- **Email**: [your.email@example.com](mailto:your.email@example.com)
+- **Email**: [smfarrukh1@hotmail.com](mailto:smfarrukh1@hotmail.com)
 - **LinkedIn**: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
-- **GitHub**: [github.com/yourusername](https://github.com/yourusername)
 - **Portfolio**: [your-portfolio.com](https://your-portfolio.com)  
-- **Blog**: [cyber-thoughts.com](https://cyber-thoughts.com) <!-- Replace with your actual blog link -->
 
 ---
 
