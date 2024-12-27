@@ -1,12 +1,12 @@
 # I'm Muhammad Farrukh
-## 🌐 A Cybersecurity Professional in Transition
+## A Cybersecurity Professional
 
 Welcome! I am a tech enthusiast and problem-solver transitioning to cybersecurity. With a background in Satellite Ground Station Operations, I bring a unique perspective and a diverse skill set to the world of information security. I am passionate about learning, adapting, and leveraging my experience to combat modern cyber threats.
 
 ---
 
 ## 📇 **Contact Information**
-- **Email**: [mfarrukh@outlook](mailto:smfarrukh1@hotmail.com)
+- **Email**: [email/mfarrukh](mailto:smfarrukh1@hotmail.com)
 - **LinkedIn**: [linkedin/mfarrukh](www.linkedin.com/in/muhammadfarrukh90)
 
 ---
@@ -64,10 +64,3 @@ Developed and executed a mock phishing email campaign to educate users about phi
 ### Badges & Progress Tracking  
 ![Python](https://img.shields.io/badge/Python-Intermediate-blue)  
 ![Security+](https://img.shields.io/badge/Security+-In--Progress-yellow)
-
-### Interactive Progress Bar  
-```html
-<div align="center">
-    <progress value="60" max="100"></progress>
-    <p>Certifications Progress: 60%</p>
-</div>
