@@ -5,7 +5,7 @@ Welcome! I am a tech enthusiast and problem-solver transitioning to cybersecurit
 
 ---
 
-## 📇 **Contact Information**
+## **Contact Information**
 - **Email**: [email/mfarrukh](mailto:smfarrukh1@hotmail.com)
 - **LinkedIn**: [linkedin/mfarrukh](www.linkedin.com/in/muhammadfarrukh90)
 
